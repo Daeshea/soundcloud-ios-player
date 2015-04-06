@@ -1,0 +1,1 @@
+Allows you to play SoundCloud widgets on iOS
